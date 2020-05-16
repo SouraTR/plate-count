@@ -8,8 +8,8 @@ Code needs a lot of optimization and automation
 
 # Current Goals
 
-  1. Automatically reduce resolution of picture and crop to 500x500 at 72dpi
-  2. Put a solid color matte around the plate to avoid miscounting
+  1. Better detection parameters
+  2. Single window
  
 # Libraries
   skimage
@@ -19,3 +19,7 @@ Code needs a lot of optimization and automation
   
 # References
   1. https://www.geeksforgeeks.org/circle-detection-using-opencv-python/
+  
+# Steps
+  1. change the path variable to the location of image of plate
+  2. ...
